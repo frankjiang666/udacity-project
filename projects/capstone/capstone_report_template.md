@@ -1,49 +1,54 @@
-# Machine Learning Engineer Nanodegree
-## Capstone Project
-Joe Udacity  
-December 31st, 2050
+# 机器学习纳米学位
+##毕业项目
+ Joe 优达学城 </br>
+ 
+2050年12月31日
+ 
 
-## I. Definition
-_(approx. 1-2 pages)_
+## I. 问题的定义
 
-### Project Overview
-In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
-- _Has an overview of the project been provided, such as the problem domain, project origin, and related datasets or input data?_
-- _Has enough background information been given so that an uninformed reader would understand the problem domain and following problem statement?_
+_(大概 1-2 页)_
 
-### Problem Statement
-In this section, you will want to clearly define the problem that you are trying to solve, including the strategy (outline of tasks) you will use to achieve the desired solution. You should also thoroughly discuss what the intended solution will be for this problem. Questions to ask yourself when writing this section:
-- _Is the problem statement clearly defined? Will the reader understand what you are expecting to solve?_
-- _Have you thoroughly discussed how you will attempt to solve the problem?_
-- _Is an anticipated solution clearly defined? Will the reader understand what results you are looking for?_
+### 项目概述
 
-### Metrics
-In this section, you will need to clearly define the metrics or calculations you will use to measure performance of a model or result in your project. These calculations and metrics should be justified based on the characteristics of the problem and problem domain. Questions to ask yourself when writing this section:
-- _Are the metrics you’ve chosen to measure the performance of your models clearly discussed and defined?_
-- _Have you provided reasonable justification for the metrics chosen based on the problem and solution?_
+在这个部分，你需要用浅显简洁的语句描述这个项目的一个总体的概念。有几个问题是需要考虑的：
+- _需要解决的问题涉及哪个领域？做这个项目的出发点？有哪些相关的数据集和输入数据？_
+
+- _问题的背景信息能够让完全没接触过这个问题的人充分了解这个问题吗？_
+
+### 问题陈述
+在这个部分，你需要清楚地为你将要解决的问题下定义，这应该包括你考虑用来解决问题，得到想要结果的策略（任务的大纲）。你同时要详尽地讨论你期望的结果是怎样的。有几个问题是需要考虑的：
+- _你是否清楚地定义了这个问题。站在读者的角度，他们能否明白你将要解决的问题是什么。_
+- _你是否详尽地阐述了你会如何解决这个问题？_
+- _你期望什么样的结果，读者能明白你期望的这个结果吗？_
+
+### 评价指标
+在这里，你需要说明你打算用什么指标和计算方法来评价自己的模型或者结果。这些指标和计算的方法需要符合你问题的特点及其所在的领域，并且你要保证他们的合理性。需要考虑的问题：
+- _你是否清晰地定义了你所使用的指标和计算方法？_
+- _你是否证明了这些指标和计算方法的合理性？_
 
 
-## II. Analysis
-_(approx. 2-4 pages)_
+## II. 分析
+_(大概 2-4 页)_
 
-### Data Exploration
-In this section, you will be expected to analyze the data you are using for the problem. This data can either be in the form of a dataset (or datasets), input data (or input files), or even an environment. The type of data should be thoroughly described and, if possible, have basic statistics and information presented (such as discussion of input features or defining characteristics about the input or environment). Any abnormalities or interesting qualities about the data that may need to be addressed have been identified (such as features that need to be transformed or the possibility of outliers). Questions to ask yourself when writing this section:
-- _If a dataset is present for this problem, have you thoroughly discussed certain features about the dataset? Has a data sample been provided to the reader?_
-- _If a dataset is present for this problem, are statistics about the dataset calculated and reported? Have any relevant results from this calculation been discussed?_
-- _If a dataset is **not** present for this problem, has discussion been made about the input space or input data for your problem?_
-- _Are there any abnormalities or characteristics about the input space or dataset that need to be addressed? (categorical variables, missing values, outliers, etc.)_
+### 数据的探索
+在这一部分，你需要分析你要使用的数据。数据可以是若干个数据集，或者输入数据/文件，甚至可以是一个环境。你需要详尽地描述数据的类型。如果可以的话，你需要展示数据的一些统计量和基本信息（例如输入的特征（features)，输入里与定义相关的特性，或者环境的描述）。你还要说明数据中的任何需要被关注的异常或有趣的性质（例如需要做变换的特征，离群值等等）。你需要考虑：
+- _如果你使用了数据集，你是否详尽地讨论了你所使用数据集的某些特征，并且为阅读者呈现了一个直观的样本？_
+- _如果你使用了数据集，你是否计算并描述了它们的统计量，并对其中与你问题相关的地方进行了讨论？_
+- _如果你**没有**使用数据集，你是否就你所使用的输入空间（input space)或输入数据进行了讨论？_
+- _数据集或输入中存在的异常，缺陷或其他特性是否得到了处理？(例如分类变数，缺失数据，离群值等）_
 
-### Exploratory Visualization
-In this section, you will need to provide some form of visualization that summarizes or extracts a relevant characteristic or feature about the data. The visualization should adequately support the data being used. Discuss why this visualization was chosen and how it is relevant. Questions to ask yourself when writing this section:
-- _Have you visualized a relevant characteristic or feature about the dataset or input data?_
-- _Is the visualization thoroughly analyzed and discussed?_
-- _If a plot is provided, are the axes, title, and datum clearly defined?_
+### 探索性可视化
+在这一部分，你需要对数据的特征或特性进行概括性或提取性的可视化。这个可视化的过程应该要适应你所使用的数据。就你为何使用这个形式的可视化，以及这个可视化过程为什么是有意义的，进行一定的讨论。你需要考虑的问题：
+- _你是否对数据中与问题有关的特性进行了可视化？_
+- _是否有对可视化结果进行详尽的分析和讨论？_
+- _绘图的坐标轴，标题，基准面是不是清晰定义了？_
 
-### Algorithms and Techniques
-In this section, you will need to discuss the algorithms and techniques you intend to use for solving the problem. You should justify the use of each one based on the characteristics of the problem and the problem domain. Questions to ask yourself when writing this section:
-- _Are the algorithms you will use, including any default variables/parameters in the project clearly defined?_
-- _Are the techniques to be used thoroughly discussed and justified?_
-- _Is it made clear how the input data or datasets will be handled by the algorithms and techniques chosen?_
+### 算法和技术
+在这一部分，你需要讨论你解决问题时用到的算法和技术。你需要根据问题的特性和所属领域来证实使用这些方法的合理性。你需要考虑：
+- _你所使用的算法，包括用到的变量/参数都清晰地说明了吗？_
+- _你是否详尽地描述并讨论了使用这些技术的合理性？_
+- _你是否清晰的描述了这些算法和技术会怎么处理这些数据？_
 
 ### Benchmark
 In this section, you will need to provide a clearly defined benchmark result or threshold for comparing across performances obtained by your solution. The reasoning behind the benchmark (in the case where it is not an established result) should be discussed. Questions to ask yourself when writing this section:
@@ -51,75 +56,77 @@ In this section, you will need to provide a clearly defined benchmark result or 
 - _Is it clear how this result or value was obtained (whether by data or by hypothesis)?_
 
 
-## III. Methodology
-_(approx. 3-5 pages)_
-
-### Data Preprocessing
-In this section, all of your preprocessing steps will need to be clearly documented, if any were necessary. From the previous section, any of the abnormalities or characteristics that you identified about the dataset will be addressed and corrected here. Questions to ask yourself when writing this section:
-- _If the algorithms chosen require preprocessing steps like feature selection or feature transformations, have they been properly documented?_
-- _Based on the **Data Exploration** section, if there were abnormalities or characteristics that needed to be addressed, have they been properly corrected?_
-- _If no preprocessing is needed, has it been made clear why?_
-
-### Implementation
-In this section, the process for which metrics, algorithms, and techniques that you implemented for the given data will need to be clearly documented. It should be abundantly clear how the implementation was carried out, and discussion should be made regarding any complications that occurred during this process. Questions to ask yourself when writing this section:
-- _Is it made clear how the algorithms and techniques were implemented with the given datasets or input data?_
-- _Were there any complications with the original metrics or techniques that required changing prior to acquiring a solution?_
-- _Was there any part of the coding process (e.g., writing complicated functions) that should be documented?_
-
-### Refinement
-In this section, you will need to discuss the process of improvement you made upon the algorithms and techniques you used in your implementation. For example, adjusting parameters for certain models to acquire improved solutions would fall under the refinement category. Your initial and final solutions should be reported, as well as any significant intermediate results as necessary. Questions to ask yourself when writing this section:
-- _Has an initial solution been found and clearly reported?_
-- _Is the process of improvement clearly documented, such as what techniques were used?_
-- _Are intermediate and final solutions clearly reported as the process is improved?_
 
 
-## IV. Results
-_(approx. 2-3 pages)_
+## III. 方法
+_(大概 3-5 页）_
 
-### Model Evaluation and Validation
-In this section, the final model and any supporting qualities should be evaluated in detail. It should be clear how the final model was derived and why this model was chosen. In addition, some type of analysis should be used to validate the robustness of this model and its solution, such as manipulating the input data or environment to see how the model’s solution is affected (this is called sensitivity analysis). Questions to ask yourself when writing this section:
-- _Is the final model reasonable and aligning with solution expectations? Are the final parameters of the model appropriate?_
-- _Has the final model been tested with various inputs to evaluate whether the model generalizes well to unseen data?_
-- _Is the model robust enough for the problem? Do small perturbations (changes) in training data or the input space greatly affect the results?_
-- _Can results found from the model be trusted?_
+### 数据预处理
+在这一部分， 你需要清晰记录你所有必要的数据预处理步骤。在前一个部分所描述的异常或特性在这一部分需要被更正和处理。需要考虑的问题有：
+- _如果你选择的算法需要进行特征选取或特征变换，你是否对此进行了记录？_
+- _**数据的探索**这一部分中提及的异常和特性是否被更正记录了？_
+- _如果你认为不需要进行预处理，你是否解释了个中原因？_
 
-### Justification
-In this section, your model’s final solution and its results should be compared to the benchmark you established earlier in the project using some type of statistical analysis. You should also justify whether these results and the solution are significant enough to have solved the problem posed in the project. Questions to ask yourself when writing this section:
-- _Are the final results found stronger than the benchmark result reported earlier?_
-- _Have you thoroughly analyzed and discussed the final solution?_
-- _Is the final solution significant enough to have solved the problem?_
+### 执行过程
+在这一部分， 你需要记录你使用算法，技术，指标来建立的模型在给定数据上执行过程。模型执行过程，以及过程中遇到的困难的描述应该清晰明了。需要考虑的问题：
+- _你所用到的算法和技术执行的方式是否清晰记录了？_
+- _根据上面所提及的技术及指标来执行的过程中是否遇到了困难，是否需要作出改动来得到想要的结果？_
+- _是否有需要记录解释的代码片段(例如复杂的函数）？_
+
+### 完善
+在这一部分，你需要描述你对原有的算法和技术完善的过程。例如调整模型的参数以达到更好的结果的过程应该有所记录。你需要记录最初和最终的模型，以及过程中有代表性意义的结果。你需要考虑的问题：
+- _初始结果是否清晰记录了？_
+- _完善的过程是否清晰记录了，其中使用了什么技术？_
+- _完善过程中的结果以及最终结果是否清晰记录了？_
 
 
-## V. Conclusion
-_(approx. 1-2 pages)_
+## IV. 结果
+_（大概 2-3 页）_
 
-### Free-Form Visualization
-In this section, you will need to provide some form of visualization that emphasizes an important quality about the project. It is much more free-form, but should reasonably support a significant result or characteristic about the problem that you want to discuss. Questions to ask yourself when writing this section:
-- _Have you visualized a relevant or important quality about the problem, dataset, input data, or results?_
-- _Is the visualization thoroughly analyzed and discussed?_
-- _If a plot is provided, are the axes, title, and datum clearly defined?_
+### 模型的评价与验证
+在这一部分，你需要对你得出的最终模型的各种技术质量进行详尽的评价。最终模型是怎么得出来的，为什么它会被选为最佳需要清晰地描述。你也需要对模型和结果可靠性作出验证分析，譬如对输入数据或环境的一些操控是否会对结果产生影响（敏感性分析sensitivity analysis）。一些需要考虑的问题：
+- _最终的模型是否合理，跟期待的结果是否一致？最后的各种参数是否合理？_
+- _模型是否对于这个问题是否足够稳健可靠？训练数据或输入的一些微小的改变是否会极大影响结果？_
+- _这个模型得出的结果是否可信？_
 
-### Reflection
-In this section, you will summarize the entire end-to-end problem solution and discuss one or two particular aspects of the project you found interesting or difficult. You are expected to reflect on the project as a whole to show that you have a firm understanding of the entire process employed in your work. Questions to ask yourself when writing this section:
-- _Have you thoroughly summarized the entire process you used for this project?_
-- _Were there any interesting aspects of the project?_
-- _Were there any difficult aspects of the project?_
-- _Does the final model and solution fit your expectations for the problem, and should it be used in a general setting to solve these types of problems?_
+### 合理性分析
+在这个部分，你需要利用一些统计分析，把你的最终模型得到的结果与你的前面设定的基准模型进行对比。你也分析你的最终模型和结果是否确确实实解决了你在这个项目里设定的问题。你需要考虑：
+- _最终结果对比你的基准模型表现得更好还是有所逊色？_
+- _你是否详尽地分析和讨论了最终结果？_
+- _最终结果是不是确确实实解决了问题？_
 
-### Improvement
-In this section, you will need to provide discussion as to how one aspect of the implementation you designed could be improved. As an example, consider ways your implementation can be made more general, and what would need to be modified. You do not need to make this improvement, but the potential solutions resulting from these changes are considered and compared/contrasted to your current solution. Questions to ask yourself when writing this section:
-- _Are there further improvements that could be made on the algorithms or techniques you used in this project?_
-- _Were there algorithms or techniques you researched that you did not know how to implement, but would consider using if you knew how?_
-- _If you used your final solution as the new benchmark, do you think an even better solution exists?_
 
------------
+## V. 项目结论
+_（大概 1-2 页）_
 
-**Before submitting, ask yourself. . .**
+### 结果可视化（自由把握）
+在这一部分，你需要用可视化的方式展示项目中需要强调的重要技术特性。至于什么形式，你可以自由把握，但需要表达出一个关于这个项目重要的结论和特点，并对此作出讨论。一些需要考虑的：
+- _你是否对一个与问题，数据集，输入数据，或结果相关的，重要的技术特性进行了可视化？_
+- _可视化结果是否详尽的分析讨论了？_
+- _绘图的坐标轴，标题，基准面是不是清晰定义了？_
 
-- Does the project report you’ve written follow a well-organized structure similar to that of the project template?
-- Is each section (particularly **Analysis** and **Methodology**) written in a clear, concise and specific fashion? Are there any ambiguous terms or phrases that need clarification?
-- Would the intended audience of your project be able to understand your analysis, methods, and results?
-- Have you properly proof-read your project report to assure there are minimal grammatical and spelling mistakes?
-- Are all the resources used for this project correctly cited and referenced?
-- Is the code that implements your solution easily readable and properly commented?
-- Does the code execute without error and produce results similar to those reported?
+
+### 对项目的思考
+在这一部分，你需要从头到尾总结一下整个问题的解决方案，讨论其中你认为有趣或困难的地方。从整体来反思一下整个项目，确保自己对整个流程是明确掌握的。需要考虑：
+- _你是否详尽总结了项目的整个流程？_
+- _项目里有哪些比较有意思的地方？_
+- _项目里有哪些比较困难的地方？_
+- _最终模型和结果是否符合你对这个问题的期望？它可以在通用的场景下被用于解决这些类型的问题吗？_
+
+
+### 需要作出的改进
+在这一部分，你需要讨论你可以怎么样去完善你执行流程中的某一方面。例如考虑一下你的操作的方法是否可以进一步推广，泛化，有没有需要作出变更的地方？你并不需要确实作出这些改进，不过你应能够讨论这些改进可能对结果的影响，并与现有结果进行比较。一些需要考虑的问题：
+- _是否可以有算法和技术层面的进一步的完善？_
+- _是否有一些你了解到，但是你还没能够实践的算法和技术？_
+- _如果将你最终模型作为新的基准，你认为还能有更好的解决方案吗？_
+
+----------
+** 在提交之前， 问一下自己... **
+
+- 你所写的项目报告结构对比于这个模板而言足够清晰了吗？
+- 每一个部分（尤其**分析**和**方法**）是否清晰，简洁，明了？有没有摸棱两可的术语和用语需要进一步说明的？
+- 你的目标读者是不是能够明白你的分析，方法和结果？
+- 报告里面是否有语法错误或拼写错误？
+- 报告里提到的一些外部资料及来源是不是都正确引述或引用了？
+- 代码可读性是否良好？必要的注释是否加上了？
+- 代码是否可以顺利运行并重现跟报告相似的结果？
