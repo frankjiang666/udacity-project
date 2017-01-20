@@ -55,9 +55,11 @@
 
 参考代码：[deep learning models for keras](https://github.com/fchollet/deep-learning-models)
 
-### 建议可视化
+### 可视化
 
-我们不仅需要模型准，还希望模型能够解释原因，因此我们可以参考这篇论文里的方法，对我们的网络关注的部位可视化。参考：[Class Activation Mapping](http://cnnlocalization.csail.mit.edu/)
+我们不仅需要模型预测得准，还希望模型能够解释原因，因此我们可以参考这篇论文里的方法，对我们的网络关注的部位可视化。
+
+参考：[Class Activation Mapping](http://cnnlocalization.csail.mit.edu/)
 
 ![](cam.jpg)
 
