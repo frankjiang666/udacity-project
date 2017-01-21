@@ -28,7 +28,7 @@
 
 此数据集可以从 kaggle 上下载。[Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
-如果你下载有困难，可以点这里:[百度云](http://pan.baidu.com/s/1pLU7hKv)
+如果你下载有困难，可以点这里:[百度云](http://pan.baidu.com/s/1dFzd0at)
 
 ## 建议
 
