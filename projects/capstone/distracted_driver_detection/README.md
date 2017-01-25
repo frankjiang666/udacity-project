@@ -28,6 +28,8 @@
 
 此数据集可以从 kaggle 上下载。[Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 
+如果你下载有困难，可以点这里:[百度云](http://pan.baidu.com/s/1dFzd0at)
+
 ## 建议
 
 建议使用 OpenCV, tensorflow, Keras 完成该项目。其他的工具也可以尝试，比如 caffe, mxnet 等。
@@ -52,6 +54,14 @@
 * [ResNeXt](https://arxiv.org/abs/1611.05431) 16.11
 
 参考代码：[deep learning models for keras](https://github.com/fchollet/deep-learning-models)
+
+### 可视化
+
+我们不仅需要模型预测得准，还希望模型能够解释原因，因此我们可以参考这篇论文里的方法，对我们的网络关注的部位可视化。
+
+参考：[Class Activation Mapping](http://cnnlocalization.csail.mit.edu/)
+
+![](cam.jpg)
 
 ## 评估
 
