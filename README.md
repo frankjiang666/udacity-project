@@ -8,6 +8,8 @@
 
 [P2: 为CharityML寻找捐献者](https://ypwhs.github.io/machine-learning/projects/P2_finding_donors/finding_donors.html)
 
+[P3: 创建客户细分](https://ypwhs.github.io/machine-learning/projects/P3_creating_customer_segments/customer_segments.html)
+
 ## 迷你项目
 
 [One-Hot Encoding](https://ypwhs.github.io/machine-learning/mini-projects/One-Hot%20Encoding.html)
